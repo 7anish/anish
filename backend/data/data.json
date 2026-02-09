@@ -1,0 +1,211 @@
+{
+  "introduction": "Anish Kumar is a full-stack developer who focuses on building practical technology that solves real-world problems. He mainly works with Next.js, Node.js, React Native, and modern databases, creating scalable and efficient applications with a strong focus on performance and clean architecture. His development approach combines strong backend logic with intuitive user experiences to deliver reliable digital solutions. He has worked on several projects that support real businesses and operational workflows, including management systems, ERP modules, automation tools, and AI-driven applications. His experience covers the complete development lifecycle — from planning and development to deployment and system optimization — helping organizations streamline processes and improve efficiency through technology. With a background in cybersecurity, Anish builds software with both security and scalability in mind. He is constantly exploring new technologies, experimenting with innovative ideas, and developing systems that automate tasks and solve meaningful challenges.",
+  "educations": [
+    {
+      "course": "Undergraduate",
+      "degree": "BTech",
+      "branch": "Computer Science",
+      "college": "KIET Group of Institutions, Ghaziabad",
+      "year": "2023-2027"
+    },
+    {
+      "course": "12th",
+      "degree": "12th Standard",
+      "branch": "PCM (Physics, Chemistry, Mathematics)",
+      "college": "SS DAV Public School, Khunti",
+      "year": "2022-2023"
+    }
+  ],
+  "skills": [
+    {
+      "key": "c",
+      "label": "C"
+    },
+    {
+      "key": "java",
+      "label": "Java"
+    },
+    {
+      "key": "javascript",
+      "label": "JavaScript"
+    },
+    {
+      "key": "typescript",
+      "label": "TypeScript"
+    },
+    {
+      "key": "python",
+      "label": "Python"
+    },
+    {
+      "key": "html5",
+      "label": "HTML5"
+    },
+    {
+      "key": "css",
+      "label": "CSS"
+    },
+    {
+      "key": "sql",
+      "label": "SQL"
+    },
+    {
+      "key": "mongodb",
+      "label": "MongoDB"
+    },
+    {
+      "key": "postgresql",
+      "label": "PostgreSQL"
+    },
+    {
+      "key": "mysql",
+      "label": "MySQL"
+    },
+    {
+      "key": "nextjs",
+      "label": "Next.js"
+    },
+    {
+      "key": "react",
+      "label": "React.js"
+    },
+    {
+      "key": "reactnative",
+      "label": "React Native"
+    },
+    {
+      "key": "nodejs",
+      "label": "Node.js"
+    },
+    {
+      "key": "express",
+      "label": "Express.js"
+    },
+    {
+      "key": "prisma",
+      "label": "Prisma (ORM)"
+    },
+    {
+      "key": "tailwindcss",
+      "label": "Tailwind CSS"
+    },
+    {
+      "key": "docker",
+      "label": "Docker"
+    },
+    {
+      "key": "git",
+      "label": "Git"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Bharat Yaatri",
+      "shortDesc": "Ride-booking platform for outstation and quick rides with admin and mobile app support.",
+      "description": "Contributed to the development of Bharat Yaatri, a team-based ride service platform designed to simplify driver and passenger ride management. Built and maintained backend services using Node.js, developed admin portal features with React, and provided support in Flutter app development. The platform enables efficient ride booking, driver coordination, and centralized operational management through a scalable system architecture.",
+      "skills": [
+        {
+          "key": "nodejs",
+          "label": "Node.js"
+        },
+        {
+          "key": "express",
+          "label": "Express.js"
+        },
+        {
+          "key": "react",
+          "label": "React"
+        },
+        {
+          "key": "flutter",
+          "label": "Flutter"
+        },
+        {
+          "key": "restapi",
+          "label": "REST APIs"
+        },
+        {
+          "key": "mongodb",
+          "label": "MongoDB"
+        },
+        {
+          "key": "git",
+          "label": "Git"
+        }
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.xcentic.bhy&pcampaignid=web_share",
+      "github": "https://github.com/TheBinaryOrbit/Bharat-Yatri"
+    }
+  ],
+  "experiences": [
+    {
+      "companyName": "XCENTIC Technology",
+      "role": "Full Stack & DevOps Engineer",
+      "description": "At XCENTIC Technology, Anish Kumar works as a Full Stack and DevOps Engineer, building and maintaining scalable web and mobile applications using modern technologies such as Next.js, Node.js, and React Native. He is actively involved in designing backend architectures, developing APIs, managing databases, and deploying production-ready systems on cloud and VPS environments. His role also includes performance optimization, automation of deployment workflows, server management, and ensuring application reliability through efficient DevOps practices.",
+      "duration": "September 2025 - Present",
+      "skills": [
+        "Next.js",
+        "Node.js",
+        "React Native",
+        "Docker",
+        "DevOps",
+        "Cloud",
+        "VPS",
+        "API Development"
+      ]
+    },
+    {
+      "companyName": "XCENTIC Technology",
+      "role": "Full Stack & DevOps Engineer (Internship)",
+      "description": "During his internship at XCENTIC Technology, Anish gained hands-on experience in full-stack development and real-world software delivery. He contributed to building business-focused applications, worked on frontend interfaces and backend logic, and assisted in deployment and server configuration tasks. This role helped him strengthen his understanding of scalable system design, version control workflows, and collaborative development within a professional engineering team.",
+      "duration": "October 2023 - June 2024 (8 Months)",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git",
+        "Server Management",
+        "Full-Stack Development"
+      ]
+    },
+    {
+      "companyName": "Stayz Pvt. Ltd.",
+      "role": "Frontend Developer (Internship)",
+      "description": "At Stayz Pvt. Ltd., Anish worked as a Frontend Developer intern, focusing on building responsive and user-friendly web interfaces. He collaborated with designers and backend developers to implement modern UI components, improve user experience, and ensure cross-device compatibility. This experience strengthened his frontend development skills and gave him exposure to real-world product development and team-based workflows.",
+      "duration": "2 Months Internship",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "UI Development"
+      ]
+    }
+  ],
+  "extracurricularActivities": [
+    {
+      "title": "E-Cell KIET",
+      "designation": "Technical Team Member",
+      "description": "Active member organizing tech events, workshops, and hackathons. Responsible for technical project management and coordinating with various teams to ensure successful event execution."
+    },
+    {
+      "title": "Coding Competitions",
+      "designation": "Participant",
+      "description": "Participated in multiple hackathons and coding competitions, winning several awards for innovative solutions. Regular participant in online competitive programming contests on platforms like Codeforces and LeetCode."
+    },
+    {
+      "title": "Open Source Contributions",
+      "designation": "Contributor",
+      "description": "Contributing to various open-source projects on GitHub. Focus on web development frameworks and tools to help the developer community."
+    }
+  ],
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/7anish/",
+    "github": "https://github.com/7anish",
+    "instagram": "https://www.instagram.com/__anish_kr_/",
+    "twitter": "https://x.com/anissh96",
+    "email": "anissh946@gmail.com"
+  }
+}
